@@ -36,4 +36,5 @@ plt.tick_params(axis='both',which='major',labelsize=12)
 # The call to fig.autfmt_xdate() draws the date labels diagonally to prevent them from # overlapping.
 fig.autofmt_xdate()
 
+
 plt.show()
