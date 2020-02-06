@@ -25,7 +25,7 @@ for row in csv_file:
     else:
         highs.append(high)
         lows.append(low)
-        dates.append(current_date
+        dates.append(current_date)
 # this block will try the data if its all good, and continue with the else statements if there are no exceptions.
 # if there are exceptions, the else block will not be executed.
 
